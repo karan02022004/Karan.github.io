@@ -10,7 +10,7 @@ steps to install and run the project.
 
 Examples of how to use the project
 
-### Authors
+## Authors
 
 Karan jain 
 # Karan.github.io
