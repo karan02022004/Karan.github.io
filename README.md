@@ -12,5 +12,7 @@ Examples of how to use the project
 
 ## Authors
 
-Karan jain 
+. Karan jain 
+. Anh Kiet Trinh
+. Amer Almenhali
 # Karan.github.io
