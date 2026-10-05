@@ -1,2 +1,2 @@
-#Feature 1 by Karan
-#feature 1 is pre approved
+#Feature1: calculate the grade of students by karan
+
