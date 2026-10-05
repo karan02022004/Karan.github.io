@@ -1,1 +1,1 @@
-#Feature2: Getting user input by Kiet
+Calculate the overall student grade by Kiet

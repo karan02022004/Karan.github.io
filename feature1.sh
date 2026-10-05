@@ -1,2 +1,1 @@
-#Feature1: calculate the grade of students by Kiet
-#Feature1 is pre approved
+Calculate the average grade for assignments, quizzes, and exams by Kiet
