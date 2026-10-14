@@ -1,2 +1,2 @@
-#Feature2: Key System by amer
+#Feature2: weighted grade calculation by amer
 
