@@ -1,2 +1,2 @@
-#Feature1: calculate the grade of students by karan
+#Feature1: student info input by karan
 
