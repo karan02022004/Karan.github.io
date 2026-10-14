@@ -1,1 +1,1 @@
-Calculate the average grade for assignments, quizzes, and exams by Kiet
+Student Grade Classification by Kiet

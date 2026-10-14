@@ -1,1 +1,1 @@
-Calculate the overall student grade by Kiet
+Display the final result by Kiet
